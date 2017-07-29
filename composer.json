@@ -1,0 +1,12 @@
+{
+    "name": "fbraz3/phalcon-stubs",
+    "description": "IDE stubs for phalcon framework",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Felipe Braz",
+            "email": "fbraz3@gmail.com"
+        }
+    ],
+    "require": {}
+}
